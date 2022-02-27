@@ -1,0 +1,134 @@
+ID;myPlantName;unit
+52;Exhaust_TempCylAvg;C (high)
+103;Various_Values_PosTurboBypass;%
+19079;Exhaust_TCSpeedA;1000/min
+19080;Exhaust_TCSpeedB;1000/min
+89;TecJet_Lambda1;a/f
+104;Various_Values_PressBoost;bar
+107;Various_Values_SpeedAct;rpm
+102;Power_PowerAct;kW
+179;Count_Start;
+161;Count_OpHour;
+217;Hyd_PressCrankCase;mbar
+69;Hyd_PressCoolWat;bar
+81;Various_Values_TempMixture;C
+21;Aux_RoomTemp;C
+79;Various_Values_TempIntakeAir;C
+112;Aux_PreChambDifPress;mbar
+126;Ignition_ITPAvg;°KW
+18307;Para_Leanox_Gas1_Para_PressurePoint1;mbar
+18308;Para_Leanox_Gas1_Para_PressurePoint2;mbar
+18312;Para_Leanox_Gas1_Para_TempPoint1;C
+18313;Para_Leanox_Gas1_Para_TempPoint2;C
+18305;Para_Leanox_Gas1_Para_PowerPoint1;kW
+18306;Para_Leanox_Gas1_Para_PowerPoint2;kW
+18309;Para_Leanox_Gas1_Para_SpeedPoint1;1/min
+18310;Para_Leanox_Gas1_Para_SpeedPoint2;1/min
+228;Hyd_OilCount_Trend_OilVolume;ml
+227;Hyd_OilCount_Trend_OilConsumption;g/kWh
+225;Hyd_OilCount_Trend_ActiveEnergy;
+110;MMD_CountEnergAct;MWh
+16546;Hyd_PressOilDif;bar
+68;Hyd_PressOil;bar
+71;Hyd_TempOil;C
+16572;TecJet_GasDiffPress;mbar
+16575;TecJet_GasPress1;mbar
+16577;TecJet_GasTemp1;°C
+16581;TecJet_ValvePos1;%
+16574;TecJet_GasFlow1;
+16547;Knock_KLS98_Knock_Cyl01;mV
+16548;Knock_KLS98_Knock_Cyl02;mV
+16549;Knock_KLS98_Knock_Cyl03;mV
+16550;Knock_KLS98_Knock_Cyl04;mV
+16551;Knock_KLS98_Knock_Cyl05;mV
+16552;Knock_KLS98_Knock_Cyl06;mV
+16553;Knock_KLS98_Knock_Cyl07;mV
+16554;Knock_KLS98_Knock_Cyl08;mV
+16555;Knock_KLS98_Knock_Cyl09;mV
+16556;Knock_KLS98_Knock_Cyl10;mV
+16557;Knock_KLS98_Knock_Cyl11;mV
+16558;Knock_KLS98_Knock_Cyl12;mV
+16559;Knock_KLS98_Knock_Cyl13;mV
+16560;Knock_KLS98_Knock_Cyl14;mV
+16561;Knock_KLS98_Knock_Cyl15;mV
+16562;Knock_KLS98_Knock_Cyl16;mV
+16563;Knock_KLS98_Knock_Cyl17;mV
+16564;Knock_KLS98_Knock_Cyl18;mV
+16565;Knock_KLS98_Knock_Cyl19;mV
+16566;Knock_KLS98_Knock_Cyl20;mV
+16567;Knock_KLS98_Knock_Cyl21;mV
+16568;Knock_KLS98_Knock_Cyl22;mV
+16569;Knock_KLS98_Knock_Cyl23;mV
+16570;Knock_KLS98_Knock_Cyl24;mV
+10008716;Knock_Valve_Noise_Cyl01;mV
+10008714;Knock_Valve_Noise_Cyl02;mV
+10008717;Knock_Valve_Noise_Cyl03;mV
+10008719;Knock_Valve_Noise_Cyl04;mV
+10008715;Knock_Valve_Noise_Cyl05;mV
+10008718;Knock_Valve_Noise_Cyl06;mV
+10008720;Knock_Valve_Noise_Cyl07;mV
+10008721;Knock_Valve_Noise_Cyl08;mV
+10008722;Knock_Valve_Noise_Cyl09;mV
+10008723;Knock_Valve_Noise_Cyl10;mV
+10008724;Knock_Valve_Noise_Cyl11;mV
+10008728;Knock_Valve_Noise_Cyl12;mV
+10008726;Knock_Valve_Noise_Cyl13;mV
+10008729;Knock_Valve_Noise_Cyl14;mV
+10008727;Knock_Valve_Noise_Cyl15;mV
+10008730;Knock_Valve_Noise_Cyl16;mV
+10008725;Knock_Valve_Noise_Cyl17;mV
+10008732;Knock_Valve_Noise_Cyl18;mV
+10008733;Knock_Valve_Noise_Cyl19;mV
+10008734;Knock_Valve_Noise_Cyl20;mV
+10008731;Knock_Valve_Noise_Cyl21;mV
+10008736;Knock_Valve_Noise_Cyl22;mV
+10008735;Knock_Valve_Noise_Cyl23;mV
+10008737;Knock_Valve_Noise_Cyl24;mV
+26;Exhaust_TempCyl01;C (high)
+27;Exhaust_TempCyl02;C (high)
+28;Exhaust_TempCyl03;C (high)
+29;Exhaust_TempCyl04;C (high)
+30;Exhaust_TempCyl05;C (high)
+31;Exhaust_TempCyl06;C (high)
+32;Exhaust_TempCyl07;C (high)
+33;Exhaust_TempCyl08;C (high)
+34;Exhaust_TempCyl09;C (high)
+35;Exhaust_TempCyl10;C (high)
+36;Exhaust_TempCyl11;C (high)
+37;Exhaust_TempCyl12;C (high)
+38;Exhaust_TempCyl13;C (high)
+41;Exhaust_TempCyl14;C (high)
+43;Exhaust_TempCyl15;C (high)
+44;Exhaust_TempCyl16;C (high)
+45;Exhaust_TempCyl17;C (high)
+46;Exhaust_TempCyl18;C (high)
+48;Exhaust_TempCyl19;C (high)
+50;Exhaust_TempCyl20;C (high)
+190;Exhaust_TempCyl21;C (high)
+193;Exhaust_TempCyl22;C (high)
+191;Exhaust_TempCyl23;C (high)
+194;Exhaust_TempCyl24;C (high)
+16591;Ignition_ITPCyl01;°KW
+16592;Ignition_ITPCyl02;°KW
+16593;Ignition_ITPCyl03;°KW
+16594;Ignition_ITPCyl04;°KW
+16595;Ignition_ITPCyl05;°KW
+16596;Ignition_ITPCyl06;°KW
+16597;Ignition_ITPCyl07;°KW
+16598;Ignition_ITPCyl08;°KW
+16599;Ignition_ITPCyl09;°KW
+16600;Ignition_ITPCyl10;°KW
+16601;Ignition_ITPCyl11;°KW
+16602;Ignition_ITPCyl12;°KW
+16603;Ignition_ITPCyl13;°KW
+16604;Ignition_ITPCyl14;°KW
+16605;Ignition_ITPCyl15;°KW
+16606;Ignition_ITPCyl16;°KW
+16607;Ignition_ITPCyl17;°KW
+16608;Ignition_ITPCyl18;°KW
+16609;Ignition_ITPCyl19;°KW
+16610;Ignition_ITPCyl20;°KW
+16611;Ignition_ITPCyl21;°KW
+16612;Ignition_ITPCyl22;°KW
+16613;Ignition_ITPCyl23;°KW
+16614;Ignition_ITPCyl24;°KW
